@@ -1,8 +1,8 @@
 # Compiler
 
 the compiler description is in the file "language".
-part 2 covers exercise 1 & 2.
-part 3 - exercise 3.
+part 2 covers project-part1 & project-part2.
+part 3 - project-part3.
 
 The compiler is written in c.
 YACC - parser.
