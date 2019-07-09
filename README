@@ -1,0 +1,9 @@
+# Compiler
+
+the compiler description is in the file "language".
+part 2 covers exercise 1 & 2.
+part 3 - exercise 3.
+
+The compiler is written in c.
+YACC - parser.
+Lex - lexical analyzer.
