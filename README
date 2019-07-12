@@ -1,9 +1,22 @@
-# Compiler
+### Compiler
+
+created using lex and yacc tools.
 
 the compiler description is in the file "language".
-part 2 covers project-part1 & project-part2.
-part 3 - project-part3.
+part 2 covers project-part1 & project-part2 - Lexical, Syntax, Semantic Analysis.
+part 3 - project-part3 - 3AC/TAC.
 
 The compiler is written in c.
 YACC - parser.
 Lex - lexical analyzer.
+
+Lexical Analysis
+Syntax Analysis
+Semantic Analysis
+Intermediate Code Generation
+
+requirements: 
+Flex Bison setup.
+
+run:
+in "run" file.
